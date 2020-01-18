@@ -1,0 +1,9 @@
+echo  "enter a num"
+read num
+if [$num -gt 0]
+then
+echo "this is a valid number"
+else
+echo "no its invalid"
+fi
+

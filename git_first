@@ -1,0 +1,10 @@
+echo  "enter a number"
+read num
+if [$num > 10]
+then
+	print " higher"
+else
+	print "lesser"
+fi
+
+
